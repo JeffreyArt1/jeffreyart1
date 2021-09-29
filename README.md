@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🔭 I’m currently working as **CTO** @refactoring-do ✨
+- 🔭 Chief Technical Officer [@refactoring-do](https://github.com/refactoring-do) ✨
 - 🌱 I’m currently learning **DevOps**
 - 📫 How to reach me: [Twitter](https://twitter.com/JeffreyArt1)
 - ⚡ Fun fact: _Jolines Macho_
